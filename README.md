@@ -2,7 +2,7 @@
 
 An app for managing Bland AI phone calls on your Mac.
 
-**[Download the latest release](https://github.com/EvanKaminsky/calldecca-releases/releases/latest)**
+**[Download the latest release](https://github.com/EvanKaminsky/Calldecca/releases/latest)**
 
 Requires macOS 14 or later. One download supports Apple silicon and Intel Macs.
 
